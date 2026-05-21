@@ -70,7 +70,7 @@ chapters:
       - id: "2.4"
         title: Research Gap
       - id: "2.5"
-        title: Summary of Literature Review
+        title: Related Works (Existing Literatures around this topic)
   - chapter: 3
     title: Methodology
     sections:
